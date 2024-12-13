@@ -1,8 +1,11 @@
 Flask
-OpenCV-python
-NumPy
-TensorFlow
+OpenCV-python~=4.10.0.84
+NumPy~=1.26.4
+TensorFlow~=2.18.0
 scikit-learn
 matplotlib
 gunicorn
+keras
 
+
+tf~=1.0.3
